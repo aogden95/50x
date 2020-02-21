@@ -1,0 +1,9 @@
+/* CSS Document */
+
+.customDiv {
+	margin: 3px;
+	min-height: 300px;
+	text-align: center;
+	font-size: large;
+	background-color: silver;
+}
